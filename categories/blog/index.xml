@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Mainroad</title>
+    <title>Blog on Hugo tranquilpeak theme</title>
     <link>/categories/blog/</link>
-    <description>Recent content in Blog on Mainroad</description>
+    <description>Recent content in Blog on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 May 2021 16:00:00 +0800</lastBuildDate><atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>/post/hello-world/</link>
+      <link>/2021/05/hello-world/</link>
       <pubDate>Sat, 15 May 2021 16:00:00 +0800</pubDate>
       
-      <guid>/post/hello-world/</guid>
+      <guid>/2021/05/hello-world/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World.&lt;/h1&gt;
 &lt;p&gt;Post example&lt;/p&gt;</description>
     </item>
